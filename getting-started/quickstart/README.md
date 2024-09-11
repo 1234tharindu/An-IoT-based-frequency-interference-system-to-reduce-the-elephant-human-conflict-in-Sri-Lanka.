@@ -1,6 +1,6 @@
 # 🐘 Introduction
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/istockphoto-586942490-612x612.jpg" alt=""><figcaption></figcaption></figure>
 
 Sri Lanka has a long history that spans millions of years, and throughout its history, elephants have played a significant role. The written history of Sri Lanka begins around 600 BC and is documented in a book called the "Mahawansa." Within this historical timeframe, there are references to the relationship between humans and elephants.One example is a 12th-century inscription found on a stone seat at Polonnaruwa. The inscription states that King Nissanka Malla used to sit on the seat while watching elephant fights, which were organized for the entertainment of nobles. This passage illustrates the importance of elephants in the cultural and recreational activities of the time. Overall, elephants have held a remarkable place in the history of Sri Lanka, and their significance is documented in various passages and inscriptions found in historical records like the "Mahawansa." These references highlight the longstanding and unique bond between humans and elephants in Sri Lanka.
 
@@ -23,14 +23,22 @@ The figure illustrates the changing trends in human and elephant deaths in Sri L
 
 
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-11 141405.png" alt=""><figcaption><p>Human and elephant deaths in Sri Lanka from 1991 to 2021</p></figcaption></figure>
 
-<div data-full-width="false">
+Over the past three decades, the average annual human death rate due to humanelephant conflict (HEC) in Sri Lanka has shown an increasing trend. From 1992 to 2001, the average was 54 deaths per year, rising to 62 deaths per year from 2002 to 2011. From 2012 to 2021, the average increased further to 93 deaths per year. This represents an approximate 42% increase in the human killing rate by elephants over the previous three decades. In 2021, the number of human deaths due to HEC reached 142, marking a significant spike.
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure>
+It is worth noting that despite some fluctuations, the number of human deaths caused by HEC has consistently exceeded 100 per year in the last three years. In total, within the past 30 years, Sri Lanka has reported 2,111 human casualties and 5,954 elephant casualties as a result of the human-elephant conflict. These figures highlight the severity and ongoing nature of the issue in the country.&#x20;
 
-</div>
+According to the DWC (Fig. 4), human deaths are more concentrated in the wildlife regions in Anuradhapura, Polonnaruwa, Ampara, Monaragala, Batticaloa, and Kurunegala, while elephant deaths are spread throughout the affected HEC region. The majority of human casualties are male since most HEC incidents occur at night when females in Sri Lankan villages generally do not go out.
 
-### Sync a repository
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-11 141437.png" alt=""><figcaption><p>Human death and properties damaged in sri lanka</p></figcaption></figure>
+
+The number of properties damaged has fluctuated but increased. From 2011 to 2021, this reached more than 1,000 per year, with a peak of 2,195 incidents recorded in 2020. Between 1991 and 2021, a total of 27,344 cases were reported, with the worst incidents occurring in Polonnaruwa, Ampara, Badulla, Monaragala, Anuradhapura, and Kurunegala.
+
+
+
+<figure><img src="../../.gitbook/assets/Screenshot 2024-09-11 141452.png" alt=""><figcaption><p>Number of properties damaged in Sri Lanka from 1991 to 2021</p></figcaption></figure>
+
+As there is no permanent solution to the human-elephant conflict, people are afraid to live in rural areas as well as to farm. The project aims to reduce human-elephant conflict, reduce wild elephant deaths and human deaths, and minimize accidents caused by wild elephant.
