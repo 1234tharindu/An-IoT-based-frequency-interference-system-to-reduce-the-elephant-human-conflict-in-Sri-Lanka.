@@ -8,7 +8,7 @@
   * [🦣 Motivation](getting-started/quickstart/motivation.md)
   * [🦣 Problem Statement](getting-started/quickstart/problem-statement.md)
   * [🦣 Objectives](getting-started/quickstart/objectives.md)
-  * [Research Questions](getting-started/quickstart/research-questions.md)
+  * [🦣 Research Questions](getting-started/quickstart/research-questions.md)
 * [🐘 Literature Survey](getting-started/literature-survey/README.md)
   * [Page 1](getting-started/literature-survey/page-1.md)
   * [Page 2](getting-started/literature-survey/page-2.md)
