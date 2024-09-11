@@ -10,6 +10,7 @@
 * [🐘 Approach](getting-started/approach.md)
 * [🐘 Implementation](getting-started/implementation.md)
 * [🐘 Conclusion and future work](getting-started/conclusion-and-future-work.md)
+* [References](getting-started/references.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
 ## Basics
