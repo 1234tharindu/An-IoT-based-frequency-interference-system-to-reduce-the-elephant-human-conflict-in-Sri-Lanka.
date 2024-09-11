@@ -5,7 +5,7 @@
 ## Getting Started
 
 * [🐘 Introduction](getting-started/quickstart/README.md)
-  * [Motivation](getting-started/quickstart/motivation.md)
+  * [🦣 Motivation](getting-started/quickstart/motivation.md)
   * [Problem Statement](getting-started/quickstart/problem-statement.md)
   * [Objectives](getting-started/quickstart/objectives.md)
   * [Research Questions](getting-started/quickstart/research-questions.md)
