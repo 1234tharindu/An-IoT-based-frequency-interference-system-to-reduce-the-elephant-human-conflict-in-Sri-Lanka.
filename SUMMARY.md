@@ -10,7 +10,7 @@
   * [🦣 Objectives](getting-started/quickstart/objectives.md)
   * [🦣 Research Questions](getting-started/quickstart/research-questions.md)
 * [🐘 Literature Survey](getting-started/literature-survey/README.md)
-  * [Page 1](getting-started/literature-survey/page-1.md)
+  * [🦣 Elephant species range and ecology](getting-started/literature-survey/page-1.md)
   * [Page 2](getting-started/literature-survey/page-2.md)
   * [Page 3](getting-started/literature-survey/page-3.md)
   * [Page 4](getting-started/literature-survey/page-4.md)
