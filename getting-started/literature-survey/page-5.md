@@ -6,8 +6,6 @@ Traditional conflict mitigation methods in Sri Lanka aim to restrict the movemen
 
 
 
-_**Trench excavation**_
-
 
 
 
