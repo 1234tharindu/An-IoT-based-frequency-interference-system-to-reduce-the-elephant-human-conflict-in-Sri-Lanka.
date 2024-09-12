@@ -1,0 +1,4 @@
+# 🍀 Mobile animal tracking systems using light sensor.
+
+This article suggests an open architecture for tracking animal movements using a portable Arduino prototype with a variety of sensors that can be quickly added to an animal collar. Global location and sensor data are sent over SMS-GSM networks to an Android OS phone embedded with a simplified RF technology used to track animals when they are close by with an adaptive alert sound and bar sign for mobile monitoring and searching using GPS and public Google Map API functionalities. In addition, the practical application of a straightforward analog light sensor with motion logic is researched, followed by implementation, yielding viability and efficiency of battery power and data transmission. This will effectively preserve battery life and reduce the cost of the tracking system.
+
