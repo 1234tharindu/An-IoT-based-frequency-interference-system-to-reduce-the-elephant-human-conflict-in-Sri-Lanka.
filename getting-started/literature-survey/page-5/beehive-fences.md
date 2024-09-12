@@ -1,0 +1,9 @@
+# 🍀 Beehive fences
+
+Beehive fences are an affordable and sustainable method of deterring elephants from crop fields. They are constructed using locally available materials and hung at regular intervals along a fence line. When elephants come into contact with the hives or wires, the hives swing open, releasing the bees. Elephants are naturally afraid of bees and tend to avoid areas where they are present. Currently, beehive fences are being used in Sri Lanka to protect small crop areas in home gardens.
+
+Using beehives as a method to deter elephants from crop fields provides multiple benefits. It ensures the safety of elephants while effectively reducing human-elephant conflict (HEC) by minimizing crop destruction. Farmers can also generate additional income by selling "elephant-friendly honey" and other bee products. The affordability and cost-effectiveness of this method make it accessible to farmers. Overall, beehive fences offer a sustainable and humane solution to mitigate HEC and promote coexistence between humans and elephants.
+
+The use of beehives as a deterrent method for elephants has some disadvantages. Elephants have the ability to adapt and find new routes to avoid areas with beehives, which can reduce the effectiveness of this approach. Proper training and management of the beehives are essential to ensure their functionality and effectiveness in deterring elephants.
+
+Traditional approaches to mitigating human-elephant conflict (HEC) have shown limitations and drawbacks, emphasizing the necessity for a new and innovative method. Relying solely on existing techniques is inadequate for achieving long-term solutions and sustainable coexistence. To address the conflict and ensure the wellbeing of both human communities and elephant populations, it is crucial to research alternative strategies and adopt a fresh approach.

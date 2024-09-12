@@ -19,6 +19,7 @@
     * [🍀 Acoustic deterrents](getting-started/literature-survey/page-5/acoustic-deterrents.md)
     * [🍀 Agriculture-based deterrents](getting-started/literature-survey/page-5/agriculture-based-deterrents.md)
     * [🍀 Light-based deterrents](getting-started/literature-survey/page-5/light-based-deterrents.md)
+    * [🍀 Beehive fences](getting-started/literature-survey/page-5/beehive-fences.md)
   * [🦣 Modern methods people use to mitigate Human Elephant Conflict](getting-started/literature-survey/page-6.md)
   * [🦣 Modern methods people use to Detection and repel wild animals](getting-started/literature-survey/page-7.md)
   * [🦣 Summary](getting-started/literature-survey/page-8.md)

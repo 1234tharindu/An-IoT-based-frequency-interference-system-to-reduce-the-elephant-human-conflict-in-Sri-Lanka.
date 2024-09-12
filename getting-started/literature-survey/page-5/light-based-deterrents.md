@@ -1,2 +1,7 @@
 # 🍀 Light-based deterrents
 
+Fire-based deterrents have been used since ancient times to protect crops from elephants and other wild animals. Farmers utilize flaming torches and fires to safeguard ripening crops and deter elephant raids. Lighting fires around farms also improves visibility and serves as a deterrent when elephants are detected, especially at night. Elephants tend to flee from large fires, making this method effective in mitigating HEC. However, it requires regular and labor-intensive control to prevent the fire from spreading beyond the intended area. Improper management of the fire can result in the destruction of crops and surrounding vegetation, emphasizing the need for careful monitoring and supervision.
+
+Fire-based deterrents have proven to be effective in keeping elephants away from crop fields as most wild animals tend to avoid areas with fire. This method is relatively inexpensive and ensures the safety of elephants by not causing them harm. It serves as a natural and non-lethal means of deterring elephants, making it a favorable option for mitigating human-elephant conflict.
+
+Using fire as a deterrent may have limitations and drawbacks. While it can be effective in the short term, elephants may adapt to its presence or find alternative routes, reducing its long-term effectiveness. This method serves as a temporary measure, and its efficacy may diminish as elephants adjust their behavior. Therefore, relying solely on fire-based deterrents may not provide a sustainable solution to human-elephant conflict in the long run.
