@@ -2,8 +2,6 @@
 
 The technologies used in the project to reduce human-elephant conflict in Sri Lanka include:
 
-
-
 * **IoT (Internet of Things):** IoT technology enables the interconnection of devices and sensors to collect and exchange data over the internet. In this project, IoT is used to gather real-time data on elephant's image, and proximity to human settlements or agricultural areas.
 * **Arduino:** Arduino is an open-source electronics platform that provides hardware and software tools for building interactive projects. It is likely used in this project to develop and deploy sensor nodes or devices that collect data on elephant activity and transmit it to a central system.
 * **Machine Learning:** Machine learning involves the development of algorithms and models that enable computers to learn and make predictions or decisions without explicit programming. Machine learning algorithms can be trained to recognize and classify elephants in images or videos. Large datasets of annotated elephant images are used to train these models, enabling accurate identification.
@@ -11,4 +9,4 @@ The technologies used in the project to reduce human-elephant conflict in Sri La
 * **Wireless Communication:** Wireless communication technologies, Wi-Fi , enable the transmission of data between devices and systems without the need for physical connections. In this project, wireless communication is likely employed to facilitate the transfer of data from the sensor nodes in the field to the central system or cloud-based server for analysis.
 * **MIDI Recording:** MIDI (Musical Instrument Digital Interface) recording is a standard protocol for communicating musical information between electronic devices. It is possible that MIDI recording is used to capture and store the bee sounds, which are then synchronized with the sensor data and deployed as deterrents when needed.
 
-By integrating these technologies, the project aims to create a comprehensive system that utilizes data analysis, remote monitoring, and natural deterrents to reduce humanelephant conflict effectively. The combination of IoT, Arduino, machine learning, Blynk Cloud, google cloud wireless communication, and MIDI recording allows for a multi-faceted approach to address the complex challenges associated with the conflict.
+By integrating these technologies, the project aims to create a comprehensive system that utilizes data analysis, remote monitoring, and natural deterrents to reduce human elephant conflict effectively. The combination of IoT, Arduino, machine learning, Blynk Cloud, google cloud wireless communication, and MIDI recording allows for a multi-faceted approach to address the complex challenges associated with the conflict.
