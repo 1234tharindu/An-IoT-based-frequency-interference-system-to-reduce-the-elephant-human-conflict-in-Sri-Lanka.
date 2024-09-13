@@ -44,6 +44,7 @@
     * [🍀 Driving Away the Elephant Using Bee Sounds](getting-started/approach/page-15/driving-away-the-elephant-using-bee-sounds.md)
     * [🍀 As the awareness of the vulnerable area.](getting-started/approach/page-15/as-the-awareness-of-the-vulnerable-area..md)
   * [🦣 Summary](getting-started/approach/page-16.md)
+* [🐘 Design](getting-started/design.md)
 * [🐘 Implementation](getting-started/implementation.md)
 * [🐘 Conclusion and future work](getting-started/conclusion-and-future-work.md)
 * [References](getting-started/references.md)
