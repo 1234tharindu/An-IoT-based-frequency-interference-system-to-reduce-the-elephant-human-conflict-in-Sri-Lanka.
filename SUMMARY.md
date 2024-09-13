@@ -54,7 +54,7 @@
     * [🍀 Elephant Detection and repel system Development](getting-started/design/system-design/elephant-detection-and-repel-system-development.md)
   * [🦣 Presentation of Results](getting-started/design/presentation-of-results.md)
 * [🐘 Implementation](getting-started/implementation/README.md)
-  * [🦣 Esp32 cam module initialization Ardunio](getting-started/implementation/esp32-cam-module-initialization-ardunio.md)
+  * [🦣 ESP 32 cam module initialization Ardunio](getting-started/implementation/esp-32-cam-module-initialization-ardunio.md)
   * [🦣 Release the bee’s sound](getting-started/implementation/release-the-bees-sound.md)
   * [🦣 Setup the Buzzer](getting-started/implementation/setup-the-buzzer.md)
   * [🦣 Setup GSM Module & Notify user](getting-started/implementation/setup-gsm-module-and-notify-user.md)
