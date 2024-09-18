@@ -1,6 +1,3 @@
----
-icon: angles-right
----
 
 # Abstract
 
