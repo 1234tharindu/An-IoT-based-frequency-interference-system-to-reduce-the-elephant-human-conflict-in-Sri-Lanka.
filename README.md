@@ -1,6 +1,3 @@
----
-icon: angles-right
----
 
 # Abstract
 
@@ -20,4 +17,4 @@ Keywords— Arduino Technology,Animal detection, Tracking System, Bee sound(Freq
 
 URL - **https://fhss-sjp-ac.gitbook.io/solution-of-elephant-human-conflict-in-sri-lanka./**
 
-{% embed url="https://fhss-sjp-ac.gitbook.io/solution-of-elephant-human-conflict-in-sri-lanka./" %}
+
