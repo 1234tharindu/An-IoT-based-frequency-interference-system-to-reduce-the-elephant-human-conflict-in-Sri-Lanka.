@@ -1,4 +1,4 @@
-# 🦣 Traditional methods people use to mitigate Human Elephant Conflict
+# 🐘 Traditional methods people use to mitigate Human Elephant Conflict
 
 Sri Lankan farmers employ various traditional methods to mitigate human-elephant conflict (HEC), often using a combination of techniques and adapting their strategies as elephants continue to test the implemented measures. The primary focus of these efforts has been on preventing risks by creating separation between humans and elephants. These traditional methods reflect the ongoing efforts of farmers to find practical solutions to minimize conflicts and protect their livelihoods.
 

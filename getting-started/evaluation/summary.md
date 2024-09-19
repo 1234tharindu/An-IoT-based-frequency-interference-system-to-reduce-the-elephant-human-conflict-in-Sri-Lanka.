@@ -1,4 +1,4 @@
-# 🦣 Summary
+# 🐘 Summary
 
 In the lab evaluation, the system performed successfully at each step. The data collection phase resulted in a diverse dataset of labeled images. The model training process yielded a trained roboflow model with good performance metrics. The model evaluation showed high accuracy, precision indicating the model's effectiveness in identifying elephants.
 

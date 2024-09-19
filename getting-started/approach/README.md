@@ -1,4 +1,4 @@
-# 🐘 Approach
+# 🦣 Approach
 
 **Introduction**
 

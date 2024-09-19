@@ -1,4 +1,4 @@
-# 🦣 Approach for development
+# 🐘 Approach for development
 
 The chosen system development life cycle (SDLC) for the project aiming to minimize human-elephant conflict is the iterative waterfall model. This model follows a sequential structure, starting from preliminary investigation and requirement analysis, followed by the design phase, implementation, and maintenance
 

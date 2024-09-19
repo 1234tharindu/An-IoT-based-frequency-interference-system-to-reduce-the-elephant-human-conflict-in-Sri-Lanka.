@@ -1,4 +1,4 @@
-# 🦣 ESP 32 cam module initialization Ardunio
+# 🐘 ESP 32 cam module initialization Ardunio
 
 The ESP32 CAM module, equipped with the integrated model, is then installed in the designated danger area where elephants are known to appear. When an elephant enters the monitored region, the ESP32 CAM captures an image of the elephant. Camera module must be connected to the ardunio board and roboflow elephant detection model and it is done by the following code and Diagram.
 

@@ -1,4 +1,4 @@
-# 🦣 Findings
+# 🐘 Findings
 
 **Advantage of Elephant Detection and repel system**
 

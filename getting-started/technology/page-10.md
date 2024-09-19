@@ -1,4 +1,4 @@
-# 🦣 Used technology
+# 🐘 Used technology
 
 The technologies used in the project to reduce human-elephant conflict in Sri Lanka include:
 

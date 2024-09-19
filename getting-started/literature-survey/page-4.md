@@ -1,4 +1,4 @@
-# 🦣 Economic losses due to Human elephant Conflict
+# 🐘 Economic losses due to Human elephant Conflict
 
 Human-elephant conflict (HEC) can be categorized into direct and indirect impacts on people. Direct HEC refers to the physical and economic consequences experienced by rural communities, while indirect HEC has a broader social impact on individuals and society as a whole. Indirect costs, which encompass various aspects of conflict, can significantly contribute to the overall perception of HEC by local communities. Recognizing and understanding both the direct and indirect impacts of HEC are crucial for effectively addressing and mitigating the conflict.
 

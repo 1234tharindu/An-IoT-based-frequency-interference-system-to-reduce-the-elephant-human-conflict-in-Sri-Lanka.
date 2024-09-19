@@ -1,4 +1,4 @@
-# 🦣 Conclusion
+# 🐘 Conclusion
 
 The introduction of new technology devices such as ESP32 CAM, SIM900 GSM Module, Arduino boards, Alarm modules, and machine learning technology offers a potential solution to the human-elephant conflict in Sri Lanka. This system aims to replace traditional methods and address the challenges associated with this issue.
 

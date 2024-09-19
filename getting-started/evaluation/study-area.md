@@ -1,4 +1,4 @@
-# 🦣 Study Area
+# 🐘 Study Area
 
 The research area selected for this study is the Udawalawa area in the Rathnapura district. The Udawalawa area is chosen because it is known for being highly susceptible to human-elephant conflict. The study focuses on understanding the experiences of people directly affected by this conflict, as well as wildlife officials who struggle to manage wild elephants entering the area. The human elephant conflict has resulted in various challenges for the local population, leading to significant problems and even the loss of lives of both people and elephants.
 

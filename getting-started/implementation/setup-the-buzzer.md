@@ -1,4 +1,4 @@
-# 🦣 Setup the Buzzer
+# 🐘 Setup the Buzzer
 
 Upon detecting the presence of an elephant, the system triggers an alarm to alert the local residents. This alarm can be activated through a buzzer or a similar audio output device that produces a loud and distinctive sound. The purpose of the alarm is to immediately draw attention to the fact that an elephant has entered the danger zone. Buzzer must be connected to the ardunio board.It is explain by the following code and Diagram.
 

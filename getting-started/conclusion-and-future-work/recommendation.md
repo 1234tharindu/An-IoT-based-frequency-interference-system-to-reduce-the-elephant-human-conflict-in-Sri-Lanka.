@@ -1,4 +1,4 @@
-# 🦣 Recommendation
+# 🐘 Recommendation
 
 Training and providing knowledge to farmers in rural areas about the newly implemented system should indeed be a priority. Since farmers may not have a technical background, it is important to educate them on how the system works and how it can complement their existing efforts in mitigating human-elephant conflicts.
 

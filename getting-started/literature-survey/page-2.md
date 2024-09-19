@@ -1,4 +1,4 @@
-# 🦣 The status of the human elephant conflict in sri lanka
+# 🐘 The status of the human elephant conflict in sri lanka
 
 Human-elephant conflict (HEC) is prevalent in Sri Lanka, particularly in the lowland dry zone where over 59.9% of the country's elephants are found. A significant proportion, approximately 69.4%, of the elephant's range in Sri Lanka overlaps with areas populated by humans. This poses a growing problem that is expected to worsen in the future. Consequently, HEC presents a significant challenge for the Sri Lankan government in terms of policymaking and planning. Addressing HEC effectively requires careful consideration and strategic measures to mitigate conflicts between humans and elephants.
 

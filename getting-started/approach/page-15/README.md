@@ -1,4 +1,4 @@
-# 🦣 Main parts of the research
+# 🐘 Main parts of the research
 
 In my research to reduce elephant-human conflict, iot, arduino, wireless communication, midi recoding, google cloud and machine learning technologies were used to create a system to repel elephants using bee sounds. There it started to be done with technical devices in the following way. Here I did this through three steps and they are,
 

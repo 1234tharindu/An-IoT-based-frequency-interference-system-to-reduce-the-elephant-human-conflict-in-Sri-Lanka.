@@ -1,4 +1,4 @@
-# 🦣 Data Analysis and interpretation
+# 🐘 Data Analysis and interpretation
 
 Human–elephant conflict (HEC) is a severe and much-debated issue in Sri Lanka. The research area selected for this study is the Udawalawa area in the Rathnapura district. The Udawalawa area is chosen because it is known for being highly susceptible to human-elephant conflict. Here, I discussed with 50 people in this area regarding the human-elephant conflict. A very large number of them mentioned that the damage caused to the crops is very large. The large damage caused to crops in the context of human-elephant conflict can be attributed to several factors. Elephants are herbivores and consume a substantial amount of vegetation to meet their daily nutritional requirements. When elephants venture into agricultural areas, they are attracted to the crops due to the availability of a concentrated food source. Especially in this area, sugarcane cultivation is very successful, so the impact of wild elephants is very common.
 

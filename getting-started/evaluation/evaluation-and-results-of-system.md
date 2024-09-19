@@ -1,4 +1,4 @@
-# 🦣 Evaluation & Results of system
+# 🐘 Evaluation & Results of system
 
 Human–elephant conflict (HEC) is a severe and much-debated issue in Sri Lanka. Overall, this system combines IoT, Arduino, wireless communication, MIDI recording, and machine learning technologies to identify elephants, repel them using bee sounds, and reduce elephant-human conflict. This innovative approach allows for early detection and mitigation of conflict situations, promoting coexistence between humans and elephants in vulnerable areas. I have created a prototype here. My prototype created here is being tested in a lab.
 

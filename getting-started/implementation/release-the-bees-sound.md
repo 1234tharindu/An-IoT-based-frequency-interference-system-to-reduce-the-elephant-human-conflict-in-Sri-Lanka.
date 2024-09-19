@@ -1,4 +1,4 @@
-# 🦣 Release the bee’s sound
+# 🐘 Release the bee’s sound
 
 After identify the elephant, the sound of the bee is used to drive the elephant away. I use a 3v speaker to make the sound of the bee.3v Speaker must be connected to the ardunio board. It is explain by the following code and Diagram.
 

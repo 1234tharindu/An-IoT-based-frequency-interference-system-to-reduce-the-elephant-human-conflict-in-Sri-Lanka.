@@ -1,4 +1,4 @@
-# 🦣 Human-Elephant Conflict in Sri Lanka- Patterns and Extent
+# 🐘 Human-Elephant Conflict in Sri Lanka- Patterns and Extent
 
 From 2010 to 2019, Sri Lanka recorded a total of 14,516 incidents of Human Elephant Conflict (HEC). These incidents resulted in significant consequences, including 807 human deaths, 579 human injuries, and 10,532 cases of property damage caused by elephants. Additionally, during this period, 2,631 elephant deaths were recorded, which includes elephants that died at the Elephant Transit Home as well as cases where the specific Divisional Secretariat (DS) division was not recorded. These statistics highlight the severity and impact of HEC in Sri Lanka during the given timeframe.
 

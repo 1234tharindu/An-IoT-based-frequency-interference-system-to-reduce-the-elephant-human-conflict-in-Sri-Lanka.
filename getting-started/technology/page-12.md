@@ -1,4 +1,4 @@
-# 🦣 Summary
+# 🐘 Summary
 
 The designed system to reduce human-elephant conflict by using IoT technology and frequency (bee's sound) integration provides a comprehensive and innovative approach to address the challenges of minimizing human-elephant conflict in Sri Lanka.
 

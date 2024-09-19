@@ -1,4 +1,4 @@
-# 🦣 Summary
+# 🐘 Summary
 
 In my system to reduce elephant-human conflict, I have implemented a three-step process. The first step involves using IoT, Arduino, wireless communication, and machine learning to identify the presence of an elephant. This is achieved by training a machine learning model to recognize elephant shapes and characteristics using labeled images. The model is integrated with an Arduino-compatible device equipped with a camera, such as the ESP32 CAM module, which captures images in the designated danger area. By analyzing these images, the system can determine if an elephant is present.
 

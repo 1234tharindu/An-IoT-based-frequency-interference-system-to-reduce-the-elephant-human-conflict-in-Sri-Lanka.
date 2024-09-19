@@ -1,4 +1,4 @@
-# 🦣 Future work
+# 🐘 Future work
 
 In the future, I hope to overcome some of the limitations of this current study.
 

@@ -1,4 +1,4 @@
-# 🦣 Objectives
+# 🐘 Objectives
 
 This research aims to reduce elephant human conflict in Sri Lanka and to create a low-cost and efficient system using IoT technology. The project objective to reduce human-elephant conflict, reduces wild elephant deaths and human deaths, and minimize accidents caused by wild elephant. The main objective of this research is "To mitigate the elephant-human conflict using IoT based bee's sound frequency
 

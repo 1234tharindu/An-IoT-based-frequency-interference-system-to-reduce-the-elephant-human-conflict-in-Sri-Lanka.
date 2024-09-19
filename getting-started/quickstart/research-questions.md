@@ -1,4 +1,4 @@
-# 🦣 Research Questions
+# 🐘 Research Questions
 
 At present, the conflict between elephants and humans can be identified as a major problem in Sri Lanka. The main research question of this research is as follows:
 

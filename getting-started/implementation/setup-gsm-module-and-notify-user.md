@@ -1,4 +1,4 @@
-# 🦣 Setup GSM Module & Notify user
+# 🐘 Setup GSM Module & Notify user
 
 In addition to the audible alarm and bee sound playback, the system also employs a SIM900 GSM module for wireless communication. This module enables the system to send messages or notifications to the local residents, informing them of the elephant's entry into the danger zone. The system can be programmed to automatically send a message with relevant information, such as the location and time of the elephant sighting, to the residents' mobile phones. SIM900 GSM module must be connected to the ardunio board.It is explain by the following code and Diagram.
 

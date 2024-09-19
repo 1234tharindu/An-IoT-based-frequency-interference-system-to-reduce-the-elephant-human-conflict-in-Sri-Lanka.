@@ -1,4 +1,4 @@
-# 🦣 Prototype of Elephant Detection and Repel system
+# 🐘 Prototype of Elephant Detection and Repel system
 
 Overall, this system combines IoT, Arduino, wireless communication, MIDI recording, and machine learning technologies to identify elephants, repel them using bee sounds, and reduce elephant-human conflict. This innovative approach allows for early detection and mitigation of conflict situations, promoting coexistence between humans and elephants in vulnerable areas.
 

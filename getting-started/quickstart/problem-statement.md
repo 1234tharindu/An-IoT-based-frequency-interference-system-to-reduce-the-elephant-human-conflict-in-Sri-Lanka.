@@ -1,4 +1,4 @@
-# 🦣 Problem Statement
+# 🐘 Problem Statement
 
 The human-elephant conflict in Sri Lanka refers to the escalating conflict between human communities and elephant populations due to various factors. The expansion of human settlements, agricultural activities, and infrastructure development has led to the loss and fragmentation of elephant habitats. As a result, elephants are increasingly forced into close proximity with human-inhabited areas, leading to conflicts over limited space and resources.
 

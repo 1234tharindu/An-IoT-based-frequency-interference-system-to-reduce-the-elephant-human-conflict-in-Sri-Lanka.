@@ -1,4 +1,4 @@
-# 🦣 Elephant species range and ecology
+# 🐘 Elephant species range and ecology
 
 Elephants are the largest terrestrial mammals, with the African elephant being the largest species. Among Asian elephants, the Sri Lankan subspecies is the largest and darkest in color. They belong to the order Proboscidea and the family Elephantidae. Elephants are social animals that live in tight matriarchal groups known as herds or clans. The herd is led by the oldest and largest female, called the matriarch. A Sri Lankan elephant herd typically consists of 12 to 20 or more individuals, including juveniles, nursing elephants, lactating females, and other adults.
 
