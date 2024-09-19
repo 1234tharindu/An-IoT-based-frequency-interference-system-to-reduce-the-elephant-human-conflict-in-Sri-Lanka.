@@ -1,3 +1,6 @@
+---
+icon: angles-right
+---
 
 # Abstract
 
@@ -15,4 +18,6 @@ The human-elephant conflict has been a major problem in recent years. The curren
 
 Keywords— Arduino Technology,Animal detection, Tracking System, Bee sound(Frequency), Wireless Communication, Machine learning, Object Detection
 
-URL - https://fhss-sjp-ac.gitbook.io/solution-of-elephant-human-conflict-in-sri-lanka./
+URL - **https://fhss-sjp-ac.gitbook.io/solution-of-elephant-human-conflict-in-sri-lanka./**
+
+{% embed url="https://fhss-sjp-ac.gitbook.io/solution-of-elephant-human-conflict-in-sri-lanka./" %}
