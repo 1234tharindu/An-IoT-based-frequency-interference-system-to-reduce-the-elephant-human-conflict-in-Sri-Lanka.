@@ -9,3 +9,15 @@ Human–elephant conflict (HEC) is a severe and much-debated issue in Sri Lanka.
 * **User Experience Testing:** i Involved potential end-users or experts in the evaluation process to gather feedback on the system's usability, effectiveness, and practicality.
 
 To provide a brief explanation of evaluating the system in the lab, we can create a table summarizing the success or failure of each step and the results of the evaluation.
+
+
+
+| Evaluation Step             | Success/Fail  | Results                                                 |
+| --------------------------- | ------------- | ------------------------------------------------------- |
+| Data Collection             | Success       | Diverse dataset with labeled images of elephants        |
+| Model Training              | Success       | Trained roboflow model with good performance metrics    |
+| Model Evaluation            | Success       | High accuracy, precision, recall, and F1-score          |
+| Integration Testing         | Success       | System accurately detects elephants and activates alarm |
+| Performance and Reliability | Success       | System performs well under various conditions           |
+| User Experience Testing     | Success       | Positive feedback on usability and effectiveness        |
+
