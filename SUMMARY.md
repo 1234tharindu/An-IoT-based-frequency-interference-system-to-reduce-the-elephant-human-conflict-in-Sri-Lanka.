@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Abstract](README.md)
+* [Thesis Outline and Summary of Contributions](thesis-outline-and-summary-of-contributions.md)
 
 ## Getting Started
 

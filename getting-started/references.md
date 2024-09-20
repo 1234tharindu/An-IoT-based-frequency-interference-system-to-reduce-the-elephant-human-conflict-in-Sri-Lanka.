@@ -1,3 +1,7 @@
+---
+icon: angles-right
+---
+
 # References
 
 1. "The Mahavamsa - Great Chronicle - History of Sri Lanka - Mahawansa,"THE MAHAVAMSA | The Great Chronicle of Sri Lanka. https://mahavamsa.org/ (accessed Jun. 29, 2023).
