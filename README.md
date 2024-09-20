@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/1b2b7c96-7a31-4d7b-ab6c-c7966094dbaa" alt="Sample Image" width="300">
+---
+icon: angles-right
+---
 
 # Abstract
 
