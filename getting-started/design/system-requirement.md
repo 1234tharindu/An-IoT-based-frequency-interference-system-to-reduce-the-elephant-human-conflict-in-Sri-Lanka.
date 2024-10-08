@@ -11,6 +11,7 @@
 | Hardware             | GSM Module       | SIM 900A GSM Module        |
 | Hardware             | Sim Card         | 1 Sim Card                 |
 | Hardware             | Power supply     | 12V Power supply           |
+| Hardware             | Buzzer           | 1 Buzzer                   |
 | Software             | Ardunio Software | Latest Version             |
 | Software             | Roboflow         | Latest Version             |
 | Software             | Audacity         | Latest Version             |
